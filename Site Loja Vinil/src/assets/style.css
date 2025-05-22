@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+body{
+    background-color: white;
+    font-family: "Caesar Dressing", system-ui;
+    overflow-x: hidden;
+
+
+}
+
+.logo_header{
+    margin-left: 735px;
+    width: 300px;
+
+}
+
+.logo_pixacao{
+    margin-left: -1010px;
+    width: 200px;
+   
+}
+
+.logo_pixacao2{
+    margin-left: 1700px;
+    margin-top: -200px;
+
+}
+
+.navbar{
+    background-color: black;
+    margin: 0;
+    width: 100%;
+    padding: 15px;
+}
+
+a{
+    color: white  ;
+    text-decoration: none;
+    margin-left: 125px;
+    font-size: xx-large;
+    
+}
+
+.video{
+    width: 100%;
+    height: 520px;
+
+
+
+}
+
+.menu{
+    margin-right: 135px;
+
+
+}
+
+
+
+
